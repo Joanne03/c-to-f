@@ -1,1 +1,1 @@
-# c-to-f
+# this is a temperature converting code
